@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielShmuklerman
+- 👋 Hi, I’m @Alex
 - 👀 I’m interested in crypto, blockchain, nodes running
 - 🌱 I’m currently learning product management
 - 💞️ I’m looking to collaborate on defi development .
